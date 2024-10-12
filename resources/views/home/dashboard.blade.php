@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -33,7 +32,7 @@
                 </li>
 
                 <li>
-                    <a href="#">
+                    <a href="main">
                         <span class="icon">
                             <ion-icon name=""></ion-icon>
                         </span>
@@ -43,7 +42,7 @@
 
                 <li>
                    
-                    <a href="#">
+                    <a href="javascript::void(0)">
                         <span class="icon">
                             <ion-icon name=""></ion-icon>
                         </span>
@@ -53,7 +52,7 @@
 
                 <li>
                    
-                    <a href="#">
+                    <a href="javascript::void(0)">
 
                         <span class="icon">
                             <ion-icon name=""></ion-icon>
@@ -63,7 +62,7 @@
                 </li>
 
                 <li>
-                    <a href="#">
+                    <a href="javascript::void(0)">
                          <span class="icon">
                             <ion-icon name=""></ion-icon>
                         </span>
@@ -72,7 +71,7 @@
                 </li>
 
                 <li>
-                    <a href="#">
+                    <a href="javascript::void(0)">
                         <span class="icon">
                             <ion-icon name=""></ion-icon>
                         </span>
